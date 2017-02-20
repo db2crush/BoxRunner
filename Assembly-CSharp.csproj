@@ -47,6 +47,7 @@
   </ItemGroup>
   <ItemGroup>
      <Compile Include="Assets\scripts\Block_Loop.cs" />
+     <Compile Include="Assets\scripts\Player_Ctrl.cs" />
      <Compile Include="Assets\scripts\Scroll_Mapping.cs" />
  <Reference Include="UnityEngine.UI">
  <HintPath>D:/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
